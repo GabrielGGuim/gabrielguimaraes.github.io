@@ -1,0 +1,7 @@
+# Replace with your own custom domain if you set one up later.
+# Example: gabrielguimaraes.dev
+#
+# When this file is present and contains a hostname, GitHub Pages will serve
+# the site at that custom domain instead of the default *.github.io URL.
+# Leave it empty (or commented out) if you're only using the free
+# <your-username>.github.io address.
